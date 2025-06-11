@@ -1,3 +1,5 @@
+# Advent of Code 2024 in Typst
+
 This is an experimental project. I wanted to learn more about Typst's coding features so I delved into the Advent of Code exercises of 2024.
 
 Of course, at some point, the execution time of each task got increasingly lengthy, ultimately prolonging the display in the pdf.
